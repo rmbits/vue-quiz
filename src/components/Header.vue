@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-nav tabs>
+    <b-nav tabs align="center">
       <b-nav-item disabled>
         <b>Fancy Quiz App</b>
       </b-nav-item>
